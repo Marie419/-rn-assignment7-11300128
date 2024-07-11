@@ -27,7 +27,7 @@ const CustomDrawerContent = (props) => {
         </TouchableOpacity>
       </View>
       <View style={styles.userNameContainer}>
-        <Text style={styles.drawerHeaderText}>Daniel</Text>
+        <Text style={styles.drawerHeaderText}>Mawkish</Text>
       </View>
       <DrawerItemList {...props} />
     </DrawerContentScrollView>
